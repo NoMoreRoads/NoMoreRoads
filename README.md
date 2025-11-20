@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-My name is Zach Lesher (he/him) and I am a data scientist-in-training! Nice to meet you!
+My name is Zach Lesher (he/him) and I am a working data analyst! Nice to meet you!
 
-I am passionate about low-carbon cities and music. The projects you see here will likely reflect those interests in some fashion!
-
-I am currently working on a project using user-generated data from the media cataloging service [AniList](https://anilist.co) to predict the target demographic of a piece of media.
+I am passionate about low-carbon cities and karaoke. The projects you see here will likely reflect those interests in some fashion!
 
 Outside of this, you can find me biking around my home city looking for new cafés and bakeries. 🚲☕🥧
 
